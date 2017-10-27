@@ -1,0 +1,4 @@
+MQTT_HOST="localhost"
+MQTT_USER="testuser"
+MQTT_PASS="testpass"
+MQTT_TOPIC_BASE="/sensors"
